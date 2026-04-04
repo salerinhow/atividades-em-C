@@ -1,1 +1,1 @@
-atvs da faculdade
+atvs da facul

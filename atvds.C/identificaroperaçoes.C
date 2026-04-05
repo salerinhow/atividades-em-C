@@ -11,7 +11,7 @@ int main() {
     scanf("%f", &num2);
 
     printf("Digite a operacao (+, -, *, /): ");
-    scanf(" %c", &operacao); // note o espaço antes do %c
+    scanf(" %c", &operacao); 
 
     if (operacao == '+') {
         resultado = num1 + num2;
